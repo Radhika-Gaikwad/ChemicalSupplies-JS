@@ -56,3 +56,23 @@ The page has a table that contains a list of chemicals with their details. It al
 1. Clone the repository:
    ```bash
    git clone https://github.com/Radhika-Gaikwad/Chemical-Table-Js.git
+
+   Usage
+Launch the application in your browser.
+Use the toolbar buttons to manage your chemical inventory:
+Click the + button to add a new chemical.
+Select a row and click the ⬆ or ⬇ buttons to move it up or down.
+Select a row and click the 🗑️ button to delete it.
+Click the 🔄 button to refresh the table.
+Click the 💾 button to save your changes.
+Screenshots
+
+Contribution
+Contributions are welcome! Please feel free to submit a pull request or create an issue for any suggestions or improvements.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Acknowledgments
+Special thanks to Bootstrap for providing a responsive design framework.
+Thanks to all contributors for their support.
