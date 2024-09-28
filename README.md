@@ -60,11 +60,15 @@ The page has a table that contains a list of chemicals with their details. It al
 
 ### Usage
 Launch the application in your browser.
+
 Use the toolbar buttons to manage your chemical inventory:
 Click the + button to add a new chemical.
+
 Select a row and click the ⬆ or ⬇ buttons to move it up or down.
 Select a row and click the 🗑️ button to delete it.
+
 Click the 🔄 button to refresh the table.
+
 Click the 💾 button to save your changes.
 
 
