@@ -262,7 +262,7 @@ document.getElementById('refreshTable').addEventListener('click', () => {
   const confirmRefresh = confirm("Are you sure you want to refresh the table? All unsaved changes will be lost."); 
   if (confirmRefresh) {
     // Fetch the latest data from localStorage
-    const storedData = JSON.parse(localStorage.getItem('tableData')) || [];
+    const storedData = JSON.parse(localStorage.getItem('tableData')) || initialTableData;
     tableData = storedData; 
     selectedRows.clear(); 
     console.log("Data after refresh:", tableData); 
