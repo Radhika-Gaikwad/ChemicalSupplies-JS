@@ -69,7 +69,7 @@ Click the 💾 button to save your changes.
 
 
 ### Screenshots
-![Chemical Inventory Screenshot](screenshot.png)
+![Chemical Inventory Screenshot](Screenshot.png)
 
 ### Contribution
 Contributions are welcome! Please feel free to submit a pull request or create an issue for any suggestions or improvements.
